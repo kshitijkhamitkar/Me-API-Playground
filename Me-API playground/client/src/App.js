@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_BASE = "http://localhost:4000/api/profile"; // change to hosted URL later
+// const API_BASE = "http://localhost:4000/api/profile"; // change to hosted URL later
+const API_BASE = process.env.REACT_APP_API_URL + "/api/profile";
 
 function App() {
   const [profile, setProfile] = useState(null);
@@ -110,3 +111,4 @@ function App() {
 }
 
 export default App;
+
