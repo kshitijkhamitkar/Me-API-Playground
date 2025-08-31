@@ -110,7 +110,7 @@ curl https://<your-backend-url>/api/profile
 
 ## Resume
 
-[My Resume](your-resume-link-here)
+[My Resume](https://drive.google.com/file/d/1pkJdnH1SSyYhHQYVZt32Urs_DtwVVlIz/view?usp=sharing))
 
 ---
 
