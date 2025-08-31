@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js"
+      "start": "node server.js",        // for production (Render will use this)
+  "dev": "nodemon server.js"        // for local development
   },
   "keywords": [],
   "author": "",
