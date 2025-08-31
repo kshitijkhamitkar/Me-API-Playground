@@ -4,6 +4,8 @@
 
 # Me-API Playground
 
+Note: Please test the backend APIs using Postman (collection provided in the repo or via sample curl commands below) add Data through MongoDB atlas.
+
 ## Architecture
 
 * **Frontend**: React (client/) → deployed on Vercel/Netlify.
