@@ -1,6 +1,6 @@
-Here’s the same README in plain text (no emojis, ready to copy):
 
----
+
+
 
 # Me-API Playground
 
@@ -102,13 +102,9 @@ curl https://<your-backend-url>/api/profile
 
 ---
 
-## Known Limitations
 
-* No authentication/authorization implemented yet.
-* Error handling is minimal.
-* Basic schema, can be extended for production needs.
 
----
+
 
 ## Resume
 
@@ -116,4 +112,4 @@ curl https://<your-backend-url>/api/profile
 
 ---
 
-Do you also want me to create the **Postman collection JSON** so you can just add it to your repo?
+
